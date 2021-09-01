@@ -1,0 +1,31 @@
+mat-card{
+    margin: 0 4rem;
+}
+
+mat-select{
+    display: block;
+}
+.myClass1{
+    font-size:  14pt;
+    color: blueviolet;
+    background-color: crimson;
+    padding: 0.8rem;
+}
+.myClass2{
+    font-size:  32pt;
+    color: aquamarine;
+    background-color: gold;
+    padding: 0.5rem;
+}
+.myClass3{
+    font-size: 12pt;
+    color: crimson;
+    background-color: violet;
+    padding: 1rem;
+}
+.myClass4{
+    font-size:  28pt;
+    color: blue;
+    background-color: darkslateblue;
+    padding: 2rem;
+}

@@ -1,0 +1,6 @@
+*.gz 
+*.txt
+*.log
+**/node_modules/
+**/e2e/
+

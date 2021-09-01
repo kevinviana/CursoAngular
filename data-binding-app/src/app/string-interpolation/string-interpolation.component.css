@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.my-card{
+    margin: 2rem;
+    background-color: #f1f1f1;
+    box-shadow: #555;
+    text-align: left;
+    width: 35rem;
+    
+    
+    font-weight: normal;
+    font-size: 1rem;
+   
+}

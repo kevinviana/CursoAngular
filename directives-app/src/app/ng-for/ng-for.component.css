@@ -1,0 +1,9 @@
+mat-card{
+    margin: 2rem;
+}
+p{
+    padding: 1rem;
+}
+mat-icon{
+    display: inline-flex;
+}

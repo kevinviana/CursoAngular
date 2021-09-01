@@ -1,0 +1,10 @@
+<mat-card class="card">
+  <mat-slide-toggle #toggle1>component1</mat-slide-toggle>
+  <mat-slide-toggle #toggle2>component2</mat-slide-toggle>
+  <mat-slide-toggle #toggle3>component3</mat-slide-toggle>
+  <mat-slide-toggle #toggle4>component4</mat-slide-toggle>
+</mat-card>
+<app-component1 *ngIf="toggle1.checked"></app-component1>
+<app-component2 *ngIf="toggle2.checked"></app-component2>
+<app-component3 *ngIf="toggle3.checked"></app-component3>
+<app-component4 *ngIf="toggle4.checked"></app-component4>
